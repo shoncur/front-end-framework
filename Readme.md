@@ -35,3 +35,9 @@ or
 6. Click on the Source Control Tab
 7. Publish to git select public repo
 8. Publish the folder to the github repo
+
+## Remove Repo
+1. Go to the Github repo
+2. Select settings
+3. Scroll to the bottom
+4. Delete the repo
